@@ -32,3 +32,10 @@ Uygulamamız toplamda birbirine bağlı 3 farklı ekrandan oluşuyor:
 2. Klasörün içinde terminali açıp gerekli paketleri yüklemek için `npm install` yazın.
 3. Projeyi başlatmak için `npx expo start` komutunu çalıştırın.
 4. Telefonunuza Expo Go uygulamasını indirip ekrandaki QR kodu taratarak uygulamayı test edebilirsiniz. 
+
+1. ![Ekran Görüntüsü 1](./foto1.jpeg)
+2. ![Ekran Görüntüsü 2](./foto2.jpeg)
+3. ![Ekran Görüntüsü 3](./foto3.jpeg)
+4. ![Ekran Görüntüsü 4](./foto4.jpeg)
+5. ![Ekran Görüntüsü 5](./foto5.jpeg)
+5. ![Ekran Görüntüsü 6](./foto6.jpeg)
