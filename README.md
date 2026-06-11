@@ -33,6 +33,10 @@ Uygulamamız toplamda birbirine bağlı 3 farklı ekrandan oluşuyor:
 3. Projeyi başlatmak için `npx expo start` komutunu çalıştırın.
 4. Telefonunuza Expo Go uygulamasını indirip ekrandaki QR kodu taratarak uygulamayı test edebilirsiniz. 
 
+
+--Proje ekran fotoğrafları
+
+
 1. ![Ekran Görüntüsü 1](./foto1.jpeg)
 2. ![Ekran Görüntüsü 2](./foto2.jpeg)
 3. ![Ekran Görüntüsü 3](./foto3.jpeg)
